@@ -40,10 +40,10 @@
 
 ## Some things I've built (or are building)
 
-- ⚽️ **[Queer Sports DB](https://sports.dykedb.org)** - A database for queer athletes to find sports leagues to play in ![](https://img.shields.io/badge/shipped-brightgreen)
-- 🎱 **[Pool Table Ranking App](https://pool.dykedb.org)** - Find and review pool tables in your area, built for Dyke Pool PDX (a community pool meetup) ![](https://img.shields.io/badge/shipped-brightgreen)
-- 🏒 **[PWHL Fantasy Sports App](https://www.github.com/pwhl-fantasy)** - Create leagues, draft real players, set lineups, and compete in weekly head-to-head matchups scored from real stats or historical seasons ![](https://img.shields.io/badge/building-brightblue)
-- 📊 **Data Warehouse & Reporting Service** - An easy-to-use service for data warehousing and reporting for a small marketing agency ![](https://img.shields.io/badge/planning-brightpurple)
+- ![](https://img.shields.io/badge/shipped-brightgreen) **[Queer Sports DB](https://sports.dykedb.org)** - A database for queer athletes to find sports leagues to play in ⚽️
+-  ![](https://img.shields.io/badge/shipped-brightgreen) **[Pool Table Ranking App](https://pool.dykedb.org)** - Find and review pool tables in your area, built for Dyke Pool PDX (a community pool meetup) 🎱  
+- ![](https://img.shields.io/badge/building-blue) **[PWHL Fantasy Sports App](https://www.github.com/pwhl-fantasy)** - Create leagues, draft real players, set lineups, and compete in weekly head-to-head matchups scored from real stats or historical seasons 🏒   
+- ![](https://img.shields.io/badge/planning-purple) **Data Warehouse & Reporting Service** - An easy-to-use service for data warehousing and reporting for a small marketing agency 📊  
 
 ## My tech journey
 
@@ -51,6 +51,8 @@
 - **Amazon Prime Video** (2017–2020): Analytics Manager building solutions for operators and content partners
 - **Galvanize** (2015–2017): Director of Analytics leading team & owning data infrastructure and company analytics
 - **Redfin** (2013–2015): Data Analyst & Digital Marketing Specialist
+- **NinjaThat** (2011-2013): Co-founder and DreamIt Ventures tech accelerator participant
+- **Freelance** (2007-2013): Got my first tech-related job at 17 rolling out custom FB Fan Pages for local businesses and building custom MS Access Databases for a manufacturing facility
 
 ## Community work that matters to me
 
