@@ -1,6 +1,4 @@
-# Ryan "Sam" Samuelson / README.md
-
-## Hi, I'm Sam 👋
+## Hi, I'm Ryan 👋
 
 🌲 Portland, Oregon | 🏗️ Builder & AI Enthusiast | 🤝 Community Impact Focused
 
