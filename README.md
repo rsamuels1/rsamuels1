@@ -34,7 +34,7 @@
 
 ## What I'm up to
 
-**Currently:** Building with Claude: shipped 2 projects, developing 2 more in just a few months. Freelance digital analytics & marketing work with small businesses and non-profits.
+**Currently:** Freelance Product Engineer. Working with small businesses. Building a PWHL Fantasy Sport app.
 
 **Always:** Fast learning, shipping things that matter, and opening doors for people who deserve them.
 
