@@ -47,6 +47,7 @@
 
 ## My tech journey
 
+- **Independent Product Engineer** (2024-Present): Building PWHL GM, a persistent fantasy hockey platform focused on league storytelling, historical continuity, and retention mechanics
 - **Nike** (2020–2024): Lead Product Manager on global supply chain analytics
 - **Amazon Prime Video** (2017–2020): Analytics Manager building solutions for operators and content partners
 - **Galvanize** (2015–2017): Director of Analytics leading team & owning data infrastructure and company analytics
