@@ -42,7 +42,7 @@
 
 - ![](https://img.shields.io/badge/shipped-brightgreen) **[Queer Sports DB](https://sports.dykedb.org)** - A database for queer athletes to find sports leagues to play in ⚽️
 -  ![](https://img.shields.io/badge/shipped-brightgreen) **[Pool Table Ranking App](https://pool.dykedb.org)** - Find and review pool tables in your area, built for Dyke Pool PDX (a community pool meetup) 🎱  
-- ![](https://img.shields.io/badge/building-blue) **[PWHL Fantasy Sports App](https://www.github.com/pwhl-fantasy)** - Create leagues, draft real players, set lineups, and compete in weekly head-to-head matchups scored from real stats or historical seasons 🏒   
+- ![](https://img.shields.io/badge/building-blue) **[PWHL GM - Fantasy Sports App](https://www.github.com/rsamuels1/pwhl-fantasy)** - Create leagues, draft real players, set lineups, and compete in weekly head-to-head matchups scored from real stats or historical seasons 🏒   
 - ![](https://img.shields.io/badge/planning-purple) **Data Warehouse & Reporting Service** - An easy-to-use service for data warehousing and reporting for a small marketing agency 📊  
 
 ## My tech journey
